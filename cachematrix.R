@@ -1,3 +1,6 @@
+# work of Shane Carbonneau
+# for Coursera R Programming Course -- Assignment 2
+
 ## As explained in the assignment
 ## Matrix inversion is usually a costly computation and there may be 
 # some benefit to caching the inverse of a matrix rather than computing 
